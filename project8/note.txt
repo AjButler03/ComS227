@@ -1,0 +1,4 @@
+4/25/2023
+
+note for future me: I didn't end up doing this lab, mostly b/c assignment 4 goes over the same stuff w/ polymorphism and inheritance, and I have a couple unused lab drops. 
+So, this never got done. Basic idea was to create interfaces or abstract classes or whatever for the different media types to condense code.
